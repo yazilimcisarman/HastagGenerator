@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HastagGenerator", "HastagGenerator.csproj", "{001DA040-5250-4EAE-9EF4-F6126A3CB579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{001DA040-5250-4EAE-9EF4-F6126A3CB579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001DA040-5250-4EAE-9EF4-F6126A3CB579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001DA040-5250-4EAE-9EF4-F6126A3CB579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001DA040-5250-4EAE-9EF4-F6126A3CB579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC326D8D-7026-483C-8FA9-224D6D2D7C2F}
+	EndGlobalSection
+EndGlobal
